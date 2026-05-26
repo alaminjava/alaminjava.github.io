@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!-- 🔥 PREMIUM GITHUB PROFILE README -->
+<!-- PREMIUM GITHUB PROFILE README -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -12,216 +12,207 @@
   </a>
 </p>
 
----
+<br>
 
-<h1 align="center">👋 Hi, I'm Md. Al-Amin Hossain</h1>
+<h1 align="center">Md. Al-Amin Hossain</h1>
 
 <h3 align="center">
-🚀 WordPress Pro • MERN Stack Engineer • Digital Marketing Expert • Virtual Assistant
+WordPress Pro • MERN Stack Engineer • Digital Marketing Expert • Virtual Assistant
 </h3>
 
 <p align="center">
-Helping businesses grow through scalable web development, AI-powered workflows, digital marketing, CRM automation, and virtual assistance since 2016.
+Helping businesses grow through scalable web development, AI-powered workflows, CRM automation, digital marketing, and virtual assistance since 2016.
 </p>
 
 ---
 
-# 💼 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="22"> About Me
 
-💻 I’m a multi-skilled freelancer working globally since **2016** with expertise in:
+I’m a multi-skilled freelancer working globally since <strong>2016</strong> with expertise in:
 
-- 🌐 WordPress Development
-- ⚛️ MERN Stack Applications
-- ☕ Spring Boot & Java
-- 📈 SEO & Digital Marketing
-- 🤖 AI Automation & Productivity Systems
-- 📊 HubSpot CRM Management
-- 📱 Social Media Growth
-- 🧠 Virtual Assistance & Operations Support
+- WordPress Development
+- MERN Stack Applications
+- Spring Boot & Java
+- SEO & Digital Marketing
+- AI Automation Systems
+- HubSpot CRM Management
+- Social Media Growth
+- Virtual Assistance & Operations Support
 
-I combine development + marketing + automation to help businesses grow faster and smarter.
-
----
-
-# 🚀 Why Clients Hire Me
-
-✅ 250+ Global Clients Served  
-✅ 270+ Projects Completed  
-✅ 9+ Years Experience  
-✅ $20K+ Upwork Earnings  
-✅ 2,735+ Upwork Hours  
-✅ 220+ Fiverr Reviews  
-✅ 4.9★ Average Rating  
-✅ 800+ Social Media Accounts Managed  
-✅ 80+ WordPress Websites Built  
+I combine development + marketing + automation to help businesses scale faster and smarter.
 
 ---
 
-# 🌍 Worked With Clients From
+## <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" width="22"> Professional Highlights
 
-🇺🇸 USA • 🇬🇧 UK • 🇨🇦 Canada • 🇦🇺 Australia • 🇳🇬 Nigeria • 🇩🇪 Germany • 🇫🇷 France • 🌎 Worldwide
+<table>
+<tr>
+<td><strong>Clients Served</strong></td>
+<td>250+</td>
+</tr>
+
+<tr>
+<td><strong>Projects Completed</strong></td>
+<td>270+</td>
+</tr>
+
+<tr>
+<td><strong>Years Experience</strong></td>
+<td>9+ Years</td>
+</tr>
+
+<tr>
+<td><strong>Upwork Earnings</strong></td>
+<td>$20K+</td>
+</tr>
+
+<tr>
+<td><strong>Upwork Hours</strong></td>
+<td>2,735+</td>
+</tr>
+
+<tr>
+<td><strong>Fiverr Reviews</strong></td>
+<td>220+</td>
+</tr>
+
+<tr>
+<td><strong>Average Rating</strong></td>
+<td>4.9★</td>
+</tr>
+
+<tr>
+<td><strong>Social Accounts Managed</strong></td>
+<td>800+</td>
+</tr>
+
+<tr>
+<td><strong>WordPress Websites</strong></td>
+<td>80+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Professional Identity
+## <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="22"> Core Skills
 
-```yaml
-name: Md. Al-Amin Hossain
-role: Full Stack Developer & Digital Marketing Expert
-experience: 9+ Years
-specialties:
-  - WordPress Development
-  - MERN Stack
-  - React.js
-  - Spring Boot
-  - HubSpot CRM
-  - SEO & Marketing
-  - AI Automation
-  - Virtual Assistance
-
-mission: Helping businesses scale using technology & automation
-availability: Open for freelance & remote opportunities
-```
-
----
-
-# 🛠 Core Skills & Services
-
-## 🌐 Web Development
+### Development Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,spring" />
 </p>
 
-✔ Responsive Business Websites  
-✔ MERN Stack Applications  
-✔ Admin Dashboards  
-✔ Authentication Systems  
-✔ REST APIs  
-✔ Database Design  
-✔ Spring Boot Backends  
-
----
-
-## 🎨 WordPress Expertise
+### CMS & Marketing
 
 <p>
 <img src="https://skillicons.dev/icons?i=wordpress" />
-</p>
 
-✔ Elementor Pro  
-✔ WooCommerce  
-✔ Landing Pages  
-✔ Website Redesign  
-✔ Speed Optimization  
-✔ Bug Fixing  
-✔ SEO Optimization  
-✔ Blog & Business Sites  
-
----
-
-## 📈 Digital Marketing
-
-<p>
 <img src="https://img.shields.io/badge/SEO-00C853?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Social_Media_Marketing-1877F2?style=for-the-badge"/>
 </p>
 
-✔ SEO Strategy  
-✔ Social Media Management  
-✔ Content Optimization  
-✔ YouTube SEO  
-✔ Lead Generation  
-✔ Google Analytics  
-✔ Marketing Automation  
-
----
-
-# 🤖 AI & Automation
+### AI & Automation
 
 <p>
 <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Loveable-FF4D4D?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pabbly-0A66C2?style=for-the-badge"/>
-</p>
 
-✔ AI-Assisted Development  
-✔ Workflow Automation  
-✔ CRM Automation  
-✔ Productivity Systems  
-✔ AI Content Systems  
-✔ Business Process Optimization  
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="22"> Services
+
+<table>
+<tr>
+<td>WordPress Development</td>
+<td>MERN Stack Applications</td>
+<td>Spring Boot Development</td>
+</tr>
+
+<tr>
+<td>HubSpot CRM</td>
+<td>SEO Optimization</td>
+<td>Social Media Marketing</td>
+</tr>
+
+<tr>
+<td>Virtual Assistance</td>
+<td>AI Automation</td>
+<td>Workflow Systems</td>
+</tr>
+
+<tr>
+<td>Landing Pages</td>
+<td>Website Redesign</td>
+<td>Bug Fixing & Optimization</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="22"> GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaminjava&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aialamin&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminjava&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aialamin&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminjava&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aialamin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="22"> GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaminjava&theme=algolia&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aialamin&theme=algolia&no-frame=true&row=1&margin-w=15"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## <img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="22"> Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/alaminjava/alaminjava/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/aialamin/aialamin/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 📈 Experience Snapshot
+## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="22"> Certifications
 
-| Platform | Achievement |
-|---|---|
-| 💼 Upwork | $20K+ Earned |
-| ⏱ Upwork | 2,735+ Hours Worked |
-| ⭐ Fiverr | 220+ Reviews |
-| 🌍 Clients | 250+ Worldwide |
-| 📱 Social Media | 800+ Accounts Managed |
-| 🌐 Websites | 80+ WordPress Sites |
-| 🏢 Government Projects | 3 Completed |
-| 🎓 Students Trained | 100+ |
+- Google AdWords
+- Google Analytics
+- Google Ads Search
+- HubSpot CRM
+- HackerRank Java Certification
+- IsDB-BISEW JEE Certification
 
 ---
 
-# 🏅 Certifications
-
-✔ Google AdWords  
-✔ Google Analytics  
-✔ Google Ads Search  
-✔ HubSpot CRM  
-✔ HackerRank Java Certification  
-✔ IsDB-BISEW JEE Certification  
-
----
-
-# 🧰 Daily Tools I Use
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Daily Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=github,git,vscode,figma,photoshop,postman,firebase" />
 </p>
 
-### Productivity & Marketing
+### Productivity & Marketing Tools
+
 - HubSpot
 - Trello
 - Slack
@@ -235,21 +226,25 @@ availability: Open for freelance & remote opportunities
 
 ---
 
-# 💬 What Clients Say
+## <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="22"> Client Feedback
 
-⭐ “Exceptional work and communication.”  
-⭐ “Highly reliable and proactive.”  
-⭐ “Fast delivery and professional quality.”  
-⭐ “Deep knowledge of WordPress and HubSpot.”  
-⭐ “Over-delivered beyond expectations.”  
+> “Exceptional work and communication.”
+
+> “Highly reliable and proactive.”
+
+> “Fast delivery and professional quality.”
+
+> “Deep knowledge of WordPress and HubSpot.”
+
+> “Over-delivered beyond expectations.”
 
 ---
 
-# 🌐 Connect With Me
+## <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="22"> Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/alaminjava">
+<a href="https://github.com/aialamin">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -273,16 +268,20 @@ availability: Open for freelance & remote opportunities
 
 ---
 
-# 📬 Contact Me
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="22"> Contact
 
-📧 Email: **alaminhabibul@gmail.com**  
-🌍 Available Worldwide  
-⚡ Response Time: Within 2 Hours  
-💼 Open For Freelance, Remote & Collaboration Opportunities
+<p align="center">
+
+<strong>Email:</strong> alaminhabibul@gmail.com  
+<strong>Availability:</strong> Worldwide  
+<strong>Response Time:</strong> Within 2 Hours  
+<strong>Status:</strong> Open For Freelance & Remote Opportunities
+
+</p>
 
 ---
 
-# ☕ Support Me
+## <img src="https://cdn-icons-png.flaticon.com/512/1047/1047711.png" width="22"> Support
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/alaminhossain">
@@ -292,15 +291,15 @@ availability: Open for freelance & remote opportunities
 
 ---
 
-# 👀 Profile Views
+## <img src="https://cdn-icons-png.flaticon.com/512/565/565547.png" width="22"> Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=alaminjava&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=aialamin&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# 🔥 Developer Quote
+## <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="22"> Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -309,9 +308,9 @@ availability: Open for freelance & remote opportunities
 ---
 
 <h2 align="center">
-🚀 Building Digital Solutions That Grow Businesses
+Building Digital Solutions That Grow Businesses
 </h2>
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+Thanks for visiting my profile
 </h3>
